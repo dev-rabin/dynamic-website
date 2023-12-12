@@ -123,7 +123,7 @@ $result = mysqli_query($con, $sql_query);
 
   <!-- Services -->
   <div class="container-fluid">
-    <h1 class="text-center my-5">Our Services</h1>
+    <h1 class="text-center my-5">Projects</h1>
     <div class="row d-flex justify-content-center column-gap-3">
       <div class="card col-12 col-lg-3 col-md-3 col-sm-3">
         <img src="./images/pexels-pixabay-270488.jpg" class="card-img-top" alt="...">
