@@ -115,9 +115,8 @@ $result = mysqli_query($con, $sql_query);
           class="img-fluid"></div>
       <div class="col-md-6 col-sm-6 col-lg-6 col-12 my-auto p-3">
         <h2>I am Robin Mandhotia</h2>
-        <p class="fs-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quia neque, ut tempora consequatur
-          sint odio rem ipsam ratione iusto libero</p>
-        <div><a href="about.php" class="fs-5 btn btn-success">Know More</a></div>
+        <p class="fs-5">Fusing the artistry of Flutter's cross-platform finesse with the solidity of full-stack craftsmanship, I sculpt intuitive mobile experiences and dynamic digital landscapes. From pixel-perfect Flutter apps to seamlessly integrated backend systems.</p>
+        <div><a href="https://github.com/dev-rabin" class="fs-5 btn btn-success">Know More</a></div>
       </div>
     </div>
   </div>
@@ -129,25 +128,26 @@ $result = mysqli_query($con, $sql_query);
       <div class="card col-12 col-lg-3 col-md-3 col-sm-3">
         <img src="./images/pexels-pixabay-270488.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Project Name</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-success">See my work</a>
+          <h5 class="card-title">Notes Application</h5>
+          <p class="card-text">Notes application is a combinaton of Flutter for mobile application and backend in Node.js and Mongodb.</p>
+          <a href="https://github.com/dev-rabin/notes_app" class="btn btn-success">See my work</a>
+          <a href="https://github.com/dev-rabin/notes_app_frontend" class="btn btn-success my-md-2">See my work</a>
         </div>
       </div>
       <div class="card col-12 col-lg-3 col-md-3 col-sm-3">
         <img src="./images/pexels-pixabay-270488.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Project Name</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-success">See my work</a>
+          <h5 class="card-title">Mousam</h5>
+          <p class="card-text">Mausam is weather checking web application. In this you can search your city and check weather with the help open weather api and React.js</p>
+          <a href="https://github.com/dev-rabin/Mousam" class="btn btn-success">See my work</a>
         </div>
       </div>
       <div class="card col-12 col-lg-3 col-md-3 col-sm-3">
         <img src="./images/pexels-pixabay-270488.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Project Name</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-success">See my work</a>
+          <h5 class="card-title">PHP Travel Form</h5>
+          <p class="card-text">Contact us Form using HTML, CSS, Mysql and PHP</p>
+          <a href="https://github.com/dev-rabin/php-travel" class="btn btn-success">See my work</a>
         </div>
       </div>
     </div>
